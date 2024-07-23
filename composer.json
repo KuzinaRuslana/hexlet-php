@@ -11,5 +11,7 @@
             "email": "kuzina.ruslana@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^10.48"
+    }
 }
